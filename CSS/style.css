@@ -1,0 +1,145 @@
+@font-face {
+    font-family: "Breaking Bad";
+    src: url(font/BreakingBad.ttf);
+}
+.fondo1{
+    background-image: url(img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    text-align: center;    
+}
+#texto_inicial{
+    font-family: "Breaking Bad";
+    font-size: 24px;
+    color: white;
+}
+#tamano_logo{
+    width: 200px;
+    height: 200px;
+}
+.poster{
+    width: 700px;
+    height: 300px;
+    border-color:brown;
+    border-width: 10px;
+    border-style: outset;
+    border-radius: 20px;
+}
+.texto_form{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14px;
+    text-align: left;
+    font-weight: bold;
+}
+.tamano_campo{
+    width: 65px;
+}
+#datos{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.fondo2{
+    background-color: #0c3e11 ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+.cabecera{
+    width: 600px;
+    height: 250px;
+}
+.tabla1{
+    align-items: center;
+    border: 2px;
+    width: 880px;
+    height:560px;
+    background-color: rgb(35, 39, 35);
+    margin: auto; 
+    border-spacing: 8px;    
+}
+.tabla2{
+    align-items: center;
+    width: 800px;
+    height:150px;
+    background-color: rgb(35, 39, 35);
+    margin: auto;
+    border-spacing: 8px;    
+}
+.tamano_letra1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(35, 39, 35);
+    font-size: 25px;
+    font-weight: bold;
+}
+.tamano_letra2{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(35, 39, 35);
+}
+.celda1{
+    background-color: greenyellow;
+    width: 70px;
+    height: 60px;
+}
+.celda2{
+    background-color: violet;
+    width: 70px;
+    height: 60px;
+}
+.celda3{
+    background-color: gainsboro;
+    width: 70px;
+    height: 60px;
+}
+.celda4{
+    background-color: rgb(94, 143, 30);
+    width: 70px;
+    height: 60px;
+}
+.celda5{
+    background-color: rgb(56, 77, 24);
+    width: 70px;
+    height: 60px;
+}
+.celda6{
+    background-color: rgb(199, 235, 69);
+    width: 70px;
+    height: 60px;
+}
+.celda7{
+    background-color: grey;
+    width: 70px;
+    height: 60px;
+}
+.celda8{
+    background-color: rgb(207, 230, 126);
+    width: 70px;
+    height: 60px;
+}
+.celda9{
+    background-color: rgb(85, 105, 54);
+    width: 70px;
+    height: 60px;
+}
+.celda10{
+    background-color: rgb(151, 150, 52);
+    width: 70px;
+    height: 60px;
+}
+.tamano_logo{
+    width: 70px;
+    height: 60px;
+}
+#hank{
+    width: 70px;
+    height: 128px;
+}
+/*Cambie el tamaño de la cabecera de la web Tabla para ajustarla mejor a la tabla,
+también los tamaños de las letras en grande por que se quedaban muy pequeños en la tabla*/
+
